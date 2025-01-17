@@ -12,7 +12,7 @@
 
 Projeto de criação de planilhas para controle financeiro e orçamentário, com dashboard para apresentação, feito no desafio "Como organizar sua vida Financeira com Planilhas Inteligentes e IA" da DIO.
 
-:moneybag: Veja a planilha em anexo: [Output/Planilha Financeira.xlsx](output/Planilha Financeira.xlsx)
+:moneybag: Veja a planilha em anexo: [Output/Planilha Financeira.xlsx]((https://github.com/LopesD92/Projeto-Planilhas_Inteligentes-DIO/blob/main/output/Planilha%20Financeira.xlsx))
 
 
 
