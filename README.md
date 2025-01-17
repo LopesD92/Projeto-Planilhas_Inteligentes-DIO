@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.webp"
+    src="./assets/cover.jpg"
     width="300"
 />
 </p>
@@ -12,7 +12,7 @@
 
 Projeto de criação de planilhas para controle financeiro e orçamentário, com dashboard para apresentação, feito no desafio "Como organizar sua vida Financeira com Planilhas Inteligentes e IA" da DIO.
 
-:moneybag: Veja a planilha em anexo: [Output/Planilha Financeira.xlsx]()
+:moneybag: Veja a planilha em anexo: [Output/Planilha Financeira.xlsx](output/Planilha Financeira.xlsx)
 
 
 
